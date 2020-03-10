@@ -1,0 +1,22 @@
+.container {
+    max-width: 960px;
+}
+
+/* Navigation */
+.nav-bar {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+.nav-bar a {
+    color: #999999;
+    transition: ease-in-out color 0.15s;
+}
+.nav-bar a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/* Others */
+.p-link {
+    text-decoration: none;
+    color: #3399FF;
+}

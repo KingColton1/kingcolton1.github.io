@@ -32,6 +32,32 @@ body {
     color: #3399FF;
 }
 
+/* Trying to get both image and text dynamically change same time while hover wherever this link's area */
+/* need to fix this */
+.footer-link {
+    display: inline;
+}
+
+.footer-link .footer-text:hover, img:hover {
+    text-decoration: none;
+    filter: brightness(100%);
+}
+
+.footer-img {
+    filter: brightness(50%);
+}
+
+.footer-img:hover {
+    filter: brightness(100%);
+}
+
+.footer-text {
+    text-decoration: none;
+    color: #FFFFFF;
+    filter: brightness(50%);
+}
+/* End */
+
 footer {
     position: absolute;
     bottom: 0;

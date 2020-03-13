@@ -14,14 +14,14 @@ body {
 }
 
 /* Navigation */
-.nav-bar {
-    background-color: rgba(0, 0, 0, 0.85);
+.navbar {
+    background-color: rgba(0, 0, 0, 0.85) !important; /* Override Bootstrap's default dark theme */
 }
-.nav-bar a {
+.navbar a {
     color: #999999;
     transition: ease-in-out color 0.15s;
 }
-.nav-bar a:hover {
+.navbar a:hover {
     color: #FFFFFF;
     text-decoration: none;
 }
@@ -88,4 +88,13 @@ footer {
     opacity: 100%;
 }
 
-/* Deal with the different screen later */
+/* Deal with the different screen for contents later */
+/* Phone Screen */
+@media screen and (max-width: 420px) {
+
+}
+
+/* Tablet Screen */
+@media screen and (max-width: 768px) {
+
+}

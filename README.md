@@ -1,4 +1,4 @@
-# UPDATE AS OF MAY 5, 2020
+# UPDATE AS OF MAY 11, 2020
 This github repository is no longer used to host website, I've moved them to AWS (Amazon Web Service) for better performance, protection, and greater control. New link can be found at: coltonbailiff.net
 
 # kingcolton1.github.io

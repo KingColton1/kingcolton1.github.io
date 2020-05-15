@@ -38,6 +38,10 @@ body {
     display: inline;
 }
 
+.footer-link a {
+    text-decoration: none;
+}
+
 .footer-link .footer-text:hover, img:hover {
     text-decoration: none;
     filter: brightness(100%);
@@ -45,16 +49,11 @@ body {
 
 .footer-img {
     filter: brightness(50%);
+    color: #FFFFFF;
 }
 
 .footer-img:hover {
     filter: brightness(100%);
-}
-
-.footer-text {
-    text-decoration: none;
-    color: #FFFFFF;
-    filter: brightness(50%);
 }
 /* End */
 

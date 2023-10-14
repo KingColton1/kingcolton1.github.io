@@ -1,1 +1,1 @@
-mc.hypixel.net,play.teslacraft.org
+play.sc-craft.net,play.civmc.net

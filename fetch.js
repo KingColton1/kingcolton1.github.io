@@ -31,14 +31,6 @@ function insertData(id, json)
 				<div class="amount has-text-centered">${arguments[1]['players']['online']}/${arguments[1]['players']['max']}</div>
 			</div>
 		</div>
-		<div class="status-list">
-			<div class="online-players-list">
-				<div class="label"><i class="fa fa-list-users"></i>List of Online Players</div>
-				<div class="popup" id="popup">
-					<p class="online-name">${arguments[1]['players']['list']['name_clean']}</p>
-				</div>
-			</div>
-		</div>
 		`;
 		var template = document.createElement('div');
 		template.className = "section";

@@ -1,1 +1,1 @@
-play.civmc.net,play.sc-craft.net
+play.sc-craft.net,167.114.180.191

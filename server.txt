@@ -1,1 +1,1 @@
-play.sc-craft.net,play.civmc.net
+play.sc-craft.net,play.teslacraft.org

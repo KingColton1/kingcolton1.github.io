@@ -1,1 +1,1 @@
-play.sc-craft.net,bta-play.solarconquest.net:25594
+play.sc-craft.net:25565,bta-play.solarconquest.net:25594

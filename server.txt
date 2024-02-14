@@ -1,1 +1,1 @@
-play.solarconqest.net:25565,bta-play.solarconquest.net:25594
+play.solarconqest.net,bta-play.solarconquest.net:25594

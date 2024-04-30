@@ -1,1 +1,1 @@
-play.solarconquest.net,213.170.135.99:25577
+play.solarconquest.net,play-gt.solarconquest.net,play-scmt.solarconquest.net

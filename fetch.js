@@ -3,7 +3,7 @@ function insertData(id, json)
 	if (arguments[1]['online'] == true) {
 		const template_online = `
 		<div class="status-header">
-			<h1 class="title"><i class="status online fa fa-circle"></i> ${arguments[1]['host']}:${arguments[1]['port']}</h1>
+			<h1 class="title"><i class="status online fa fa-circle"></i> ${arguments[1]['host']}</h1>
 			<h2 class="subtitle">${arguments[1]['motd']['clean']}</h2>
 		</div>
 
@@ -39,7 +39,7 @@ function insertData(id, json)
 	} else {
 		const template_offline = `
 		<div class="status-header">
-			<h1 class="title"><i class="status offline fa fa-circle"></i> ${arguments[1]['host']}:${arguments[1]['port']}</h1>
+			<h1 class="title"><i class="status offline fa fa-circle"></i> ${arguments[1]['host']}</h1>
 			<h2 class="subtitle">Not available</h2>
 		</div>
 
